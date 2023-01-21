@@ -46,7 +46,7 @@
          &trans  &trans  &trans            &trans             &trans  &trans             &none   &none  &trans  &kp LC(LA(N7))  &kp LC(LA(N8))  &kp LC(LA(N9))   &trans   &trans
          &trans  &trans  &trans            &trans             &trans  &trans             &none  &trans  &trans                                          &trans   &trans    &none  &trans  &kp LC(LA(N4))  &kp LC(LA(N5))     &kp LC(LA(N6))  &trans  &trans
          &trans  &trans  &trans            &trans             &trans  &trans             &none   &none  &trans           &none           &none          &trans    &none    &none  &trans  &kp LC(LA(N1))  &kp LC(LA(N2))  &kp LC(LA(KP_N3))  &trans  &trans
-         &trans  &trans  &trans  &kp LC(LA(LEFT))  &kp LC(LA(RIGHT))  &trans            &trans  &trans  &trans          &trans          &trans          &trans   &trans   &trans  &trans          &trans
+         &trans  &trans  &trans  &kp LC(LA(LEFT))  &kp LC(LA(RIGHT))  &trans            &trans  &trans  &trans          &trans          &trans  &kp LC(LA(UP))   &kp LC(LA(DOWN))   &trans  &trans          &trans
       >;
     };
     mod {
