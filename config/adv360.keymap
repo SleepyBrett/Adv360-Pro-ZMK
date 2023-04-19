@@ -60,10 +60,10 @@
         layer_fn {
             bindings = <
  &kp F1  &kp F2  &kp F3    &kp F4     &kp F5  &kp F6            &tog 1                                                   &mo 3  &kp F7  &kp F8    &kp F9  &kp F10  &kp F11  &kp F12
- &trans  &trans  &trans    &trans     &trans  &trans             &none                                                   &none  &trans  &kp N7    &kp N8   &kp N9   &trans   &trans
- &trans  &trans  &trans    &trans     &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &kp N4    &kp N5   &kp N6   &trans   &trans
- &trans  &trans  &trans    &trans     &trans  &trans             &none   &none  &trans   &none   &none  &trans   &none   &none  &trans  &kp N1    &kp N2   &kp N3   &trans   &trans
- &trans  &trans  &trans  &kp LEFT  &kp RIGHT                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp UP  &kp DOWN   &trans   &trans   &trans
+ &trans  &trans  &trans    &trans     &trans  &trans             &none                                                   &none  &trans  &kp LC(LA(N7))    &kp LC(LA(N8))   &kp LC(LA(N9))   &trans   &trans
+ &trans  &trans  &trans    &trans     &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &kp LC(LA(N4))    &kp LC(LA(N5))   &kp LC(LA(N6))   &trans   &trans
+ &trans  &trans  &trans    &trans     &trans  &trans             &none   &none  &trans   &none   &none  &trans   &none   &none  &trans  &kp LC(LA(N1))    &kp LC(LA(N2))   &kp LC(LA(N3))   &trans   &trans
+ &trans  &trans  &trans  &kp LC(LA(LEFT))  &kp LC(LA(RIGHT))                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp LC(LA(UP))  &kp LC(LA(DOWN))   &trans   &trans   &trans
             >;
         };
 
